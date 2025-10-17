@@ -6,7 +6,7 @@
 <a href='https://Auto_ReactionBOT.t.me'>
 <img src='https://img.shields.io/badge/Demo-Workers-1cd760?logo=cloudflare&style=flat'>
 </a>
-<a href='https://t.me/Auto_ReactionBOT'>
+<a href='https://t.me/REACTIONRBOT'>
 <img src='https://img.shields.io/badge/Telegram-@Auto__ReactionBOT-blue?logo=telegram&style=flat'> 
 </a>
 </div>
@@ -50,7 +50,7 @@ Set All Environmental variables before deploy. -  [Instructions](#-configuring-e
 ### ✅ Serverless - Free
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Malith-Rukshan/Auto-Reaction-Bot)
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Malith-Rukshan/Auto-Reaction-Bot)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/ABCLOUDA/GT-Auto-Reaction)
 
 </br>
 
@@ -60,7 +60,7 @@ Deploying this Telegram Auto-Reaction Bot on Cloudflare is straightforward thank
 
 1. **Start the Deployment**:
     - Click the "Deploy to Cloudflare Workers" button below.
-    - [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Malith-Rukshan/Auto-Reaction-Bot)
+    - [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/ABCLOUDA/GT-Auto-Reaction)
     
 2. **Set up your Cloudflare account**:
     - If you do not already have a Cloudflare account, you will be prompted to create one.
@@ -74,7 +74,7 @@ Deploying this Telegram Auto-Reaction Bot on Cloudflare is straightforward thank
 
 <details><summary>Cloudflare Worker Settings</summary><img align="center" src="https://raw.githubusercontent.com/Malith-Rukshan/Auto-Reaction-Bot/main/images/cloudflare-settings.png"/></details>
 
-✅ **Demo**: Experience the Auto Reaction Bot in demo: [Auto Reaction Bot ✨](https://t.me/Auto_ReactionBOT).
+✅ **Demo**: Experience the Auto Reaction Bot in demo: [Auto Reaction Bot ✨](https://t.me/REACTIONRBOT).
 
 ## 🚀 Deploy with Github Actions
 First you must Add Repository secrets as follows
