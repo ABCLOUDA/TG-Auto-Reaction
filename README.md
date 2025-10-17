@@ -19,7 +19,7 @@
   ·
   <a href="https://core.telegram.org/bots/api#reactiontype">Supported Reactions</a>
   .
-  <a href="https://github.com/Malith-Rukshan/Auto-Reaction-Bot/issues/new">Report a Bug</a>
+  <a href="https://github.com/ABCLOUDA/TG-Auto-Reaction/issues/new">Report a Bug</a>
 </div>
 
 ##
@@ -42,15 +42,15 @@
 Set All Environmental variables before deploy. -  [Instructions](#-configuring-environments)
 
 [![Deploy with heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Malith-Rukshan/Auto-Reaction-Bot)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ABCLOUDA/TG-Auto-Reaction)
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/xAf8hY?referralCode=jC4ZQ_)
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
 
 ### ✅ Serverless - Free
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Malith-Rukshan/Auto-Reaction-Bot)
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/ABCLOUDA/GT-Auto-Reaction)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ABCLOUDA/TG-Auto-Reaction)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/ABCLOUDA/TG-Auto-Reaction)
 
 </br>
 
@@ -60,7 +60,7 @@ Deploying this Telegram Auto-Reaction Bot on Cloudflare is straightforward thank
 
 1. **Start the Deployment**:
     - Click the "Deploy to Cloudflare Workers" button below.
-    - [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/ABCLOUDA/GT-Auto-Reaction)
+    - [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/ABCLOUDA/TG-Auto-Reaction)
     
 2. **Set up your Cloudflare account**:
     - If you do not already have a Cloudflare account, you will be prompted to create one.
@@ -81,7 +81,7 @@ First you must Add Repository secrets as follows
 
 <details><summary>Add Repository secrets</summary><img align="center" src="https://raw.githubusercontent.com/Malith-Rukshan/Auto-Reaction-Bot/main/images/github-secrets.png"/></details>
 
-After that [Click Here](https://github.com/Malith-Rukshan/Auto-Reaction-Bot/actions/workflows/deploy.yml) to Run Action.
+After that [Click Here](https://github.com/ABCLOUDA/TG-Auto-Reaction/actions/workflows/deploy.yml) to Run Action.
 
 ## 🛠 Configuring Environments
 
@@ -119,7 +119,7 @@ Before you begin, you will need to have git installed on your local machine to c
 ### Step 1: Clone the Repository
 Start by cloning the repository to your local machine. Open your terminal and run the following command:
 ```shell
-git clone https://github.com/Malith-Rukshan/Auto-Reaction-Bot.git
+git clone https://github.com/ABCLOUDA/TG-Auto-Reaction.git
 cd Auto-Reaction-Bot
 ```
 
